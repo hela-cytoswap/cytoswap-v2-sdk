@@ -1131,10 +1131,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@cytoswap/sdk-core@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@cytoswap/sdk-core/-/sdk-core-1.0.1.tgz#e56c0de5ce8ad7456729190cda9c04aeb6088f5f"
-  integrity sha512-zhsnbE/cPcOZ4lQ2CSFKxgn6RRKlKc834OpvmACXiz4vbWKdnjbuc2tIYdmOgLyhNoW/h4pfqLYGNon1mltX7A==
+"@cytoswap/sdk-core@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@cytoswap/sdk-core/-/sdk-core-1.0.5.tgz#d3d6be0da48508984b12f31ce50eba563c9fa95c"
+  integrity sha512-iffxzPDJYgxQE2b8v/bqWq18VNrloOj9qo+TE73bKe1qIC9h1NekUkmORoQPcG5x1I3v5YNVIgqQN1o/2zTQ3g==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
