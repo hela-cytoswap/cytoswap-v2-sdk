@@ -1,7 +1,7 @@
 {
   "name": "@cytoswap/v2-sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "🛠 An SDK for building applications on top of Cytoswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@cytoswap/sdk-core": "^1.0.5",
+    "@cytoswap/sdk-core": "^1.0.7",
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
     "tiny-invariant": "^1.1.0",
